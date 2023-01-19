@@ -1,2 +1,7 @@
-# patika-kodluyoruz-CSS-DEV-1
-Patki.dev Front-End Developer Eğitimi kapsamında hazırladığım CSS ödevidir. www.patika.dev
+# Kodluyoruz Front-End Developer Eğitimi
+
+## CSS Ödev-1
+
+### Kodluyoruz Front-end Eğitimi kapsamında hazırladığım CSS ödevidir.
+
+### https://app.patika.dev/courses/css/odev1
